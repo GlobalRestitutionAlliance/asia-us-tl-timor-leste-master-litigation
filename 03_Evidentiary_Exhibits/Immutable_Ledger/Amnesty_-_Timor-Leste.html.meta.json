@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/timor-leste/",
+  "final_url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/timor-leste/",
+  "title": "Amnesty - Timor-Leste",
+  "fetched_at": "2026-11-23T15:27:18.695216Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 102220,
+  "sha256": "c29ee724a8622627c6a08ae2d7608cfbc34866e6dd932fd192aa8e5ee7bcac87",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
